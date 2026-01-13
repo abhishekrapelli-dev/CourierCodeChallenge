@@ -1,8 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using CourierCodeChallenge;
-using CourierCodeChallenge.Models;
-using CourierCodeChallenge.Services;
-using CourierCodeChallenge.Services.Abstraction;
+using CourierCodeChallenge.Core.Models;
+using CourierCodeChallenge.Core.Services;
+using CourierCodeChallenge.Core.Services.Abstraction;
 
 bool keepRunning = true;
 
